@@ -25,6 +25,7 @@
 		"underscore-plus": "1.6.6",
 		"azure-sb": "0.10.3",
 		"chai": "3.5.0",
-		"moment": "2.14.1"
+		"moment": "2.14.1",
+		"underscore": "1.8.3"
 	}
 }
